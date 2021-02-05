@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="41.281815mm"
+   height="44.082863mm"
+   viewBox="0 0 41.281815 44.082863"
+   version="1.1"
+   id="svg2869">
+  <defs
+     id="defs2863" />
+  <metadata
+     id="metadata2866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(4.3941165,12.029378)">
+    <g
+       id="g6737"
+       transform="translate(-66.817382,-33.94323)">
+      <g
+         id="g693"
+         transform="matrix(0.35277777,0,0,-0.35277777,64.675046,65.996715)">
+        <path
+           d="m 0,0 h 104.253 c 3.525,0 6.383,2.858 6.383,6.383 v 104.253 c 0,3.525 -2.858,6.383 -6.383,6.383 L 0,117.019 c -3.525,0 -6.383,-2.858 -6.383,-6.383 V 6.383 C -6.383,2.858 -3.525,0 0,0"
+           style="fill:#c4a766;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path695" />
+      </g>
+      <g
+         id="g923"
+         transform="matrix(0.35277777,0,0,-0.35277777,103.70508,60.943773)">
+        <path
+           d="m 0,0 c 0,-3.525 -2.858,-6.383 -6.383,-6.383 h -104.253 c -3.526,0 -6.383,2.858 -6.383,6.383 v 104.253 c 0,3.526 2.857,6.383 6.383,6.383 H -6.383 c 3.525,0 6.383,-2.857 6.383,-6.383 z"
+           style="fill:#efdba3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path925" />
+      </g>
+      <g
+         id="g927"
+         transform="matrix(0.35277777,0,0,-0.35277777,80.986216,51.346771)">
+        <path
+           d="M 0,0 H -9.238 V 49.846 H 22.275 V 42.14 H 0 V 28.519 H 17.528 V 21.033 H 0 Z"
+           style="fill:#634b28;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path929" />
+      </g>
+      <g
+         id="g931"
+         transform="matrix(0.35277777,0,0,-0.35277777,96.866016,56.31427)">
+        <path
+           d="M 0,0 H 4.286 V 6.152 C 3.848,5.386 3.433,4.703 3.041,4.101 2.65,3.5 2.277,2.954 1.924,2.462 1.57,1.972 1.233,1.527 0.911,1.13 0.59,0.732 0.286,0.355 0,0 M 5.706,8.299 V 0 H 7.318 V -1.315 H 5.706 v -2.954 h -1.42 v 2.954 h -5.908 v 1.245 c 0.55,0.619 1.105,1.28 1.666,1.985 0.56,0.704 1.097,1.418 1.608,2.142 0.511,0.725 0.985,1.448 1.42,2.17 0.435,0.721 0.802,1.412 1.1,2.072 z"
+           style="fill:#634b28;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path933" />
+      </g>
+    </g>
+  </g>
+</svg>
